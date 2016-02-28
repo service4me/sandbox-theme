@@ -1,6 +1,8 @@
 sandbox-wordpress-theme
 =======================
 
+testing to split master/wordpress/drupal
+
 Simple, ready to use Wordpress Theme
 
 Goals:
